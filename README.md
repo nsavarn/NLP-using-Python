@@ -31,7 +31,6 @@ This repository includes:
 | Mode | Online (Recorded sessions available) |
 | Schedule | Tue–Thu–Sat (6:30 PM – 7:30 PM) |
 | Certification | iHUB DivyaSampark, IIT Roorkee |
-| Instructor | Mr. Shreyas Shukla (Microsoft Certified Azure Data Engineer) |
 
 ## 🛠️ Tech Stack
 
